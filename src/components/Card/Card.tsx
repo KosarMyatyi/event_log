@@ -31,8 +31,6 @@ const Card = (data: EventLogProps) => {
     }
   };
 
-  console.log("isRead", isRead);
-
   return (
     <div
       tabIndex={0}
